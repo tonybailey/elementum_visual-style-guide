@@ -202,6 +202,7 @@ h1 {
 	font-weight: 300;
 	font-style: normal;
 	text-align:center;
+	text-transform:uppercase;
 	position:relative;
 	letter-spacing: 0.1em;
 	margin-bottom: 17px;
@@ -709,7 +710,6 @@ margin-bottom:-44px;
 	font-weight: 300;
 	font-size: 32px;
 	line-height:1em;
-	text-transform:uppercase;
 	padding:0;
 	text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2);
 	width:100%;
