@@ -158,11 +158,11 @@ ul.iconsList li a:hover, ul.iconsList i {
 }
 
 #mainHeader .navbar-inner {
-	background: #444;
+	background: #333;
 	filter:none !important;
 }
 #mainMenu ul li a, #resMainMenu ul li a {
-	color:#444;
+	color:#333;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
 	background: #1cbbda;
@@ -212,7 +212,7 @@ p.credits a {
 	box-shadow:none;
 }
 .slides .txt div {
-	background:#444;
+	background:#333;
 	color:#FFFFFF;
 }
 .flexslider .flex-direction-nav a {
@@ -293,7 +293,7 @@ section#projectDescription {
 }
 .pricingBloc ul li {
 	border-bottom:1px solid #ddd;
-	color:#444!important;
+	color:#333!important;
 }
 .pricingBloc ul li:last-child {
 	border-bottom:none;
@@ -310,7 +310,7 @@ section#projectDescription {
 }
 .pricingBloc p {
 	background-color:#eee;
-	color:#444!important;
+	color:#333!important;
 }
 .pricingBloc.focusPlan {
 	margin-top:0;
@@ -335,7 +335,7 @@ section#projectDescription {
 	-moz-box-shadow:none;
 }
 .form-control {
-	color: #444;
+	color: #333;
 	background-color:#ededed;
     border:none;
 }
@@ -347,7 +347,7 @@ label.error {color:#fff;
 background-color: #B94A48;
 border:none}
 
-#projectQuote, #projectQuote h3{background:#ddd;color:#444;}
+#projectQuote, #projectQuote h3{background:#ddd;color:#333;}
 
 /* END MISCELANIOUS
 ================================================== */
@@ -375,11 +375,11 @@ border:none}
 /*color1*/
 .color1, .slice.color1, .bulle.color1, .ctaBox.color1{
 	background-color:#F7F7F7;
-	color:#444;
+	color:#333;
 }
 
 .color1 h1, .color1 h2, .color1 h3, .color1 h4, .color1 blockquote, .color1 a{
-	color:#444;
+	color:#333;
 }
 .color1 a.btn{color:#fff;}
 .color1 a.btn:hover{color:#1cbbda;}
