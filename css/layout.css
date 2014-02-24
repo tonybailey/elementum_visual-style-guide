@@ -193,7 +193,8 @@ body {
 }
 h1 {
 	margin:0;
-	font-family: 'FuturaW01-MediumCondens';
+	font-weight: 300;
+	font-family: 'FuturaW01-MediumCondens', sans-serif;
 }
 h2, h3, h4, h5, h6, legend {
 	margin:0;
