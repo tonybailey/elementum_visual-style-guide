@@ -577,7 +577,7 @@ hr {
 ================================================== */
 .navbar-nav > li > a {
     display: block;
-    font-size: 1em;
+    font-size: 1.2em;
     font-family: 'FuturaW01-MediumCondens', sans-serif;
     font-weight: 300;
     margin: 0;
@@ -592,7 +592,7 @@ hr {
 	-ms-transition: all 0.2s ease-out;
 	transition: all 0.2s ease-out;
 }
-.navbar-nav > li > a i {font-size: 16px; text-align: center;padding: 20px 0 10px 0; color:#ccc;}
+.navbar-nav > li > a i {font-size: 16px; text-align: center;padding: 20px 0 10px 0; color:#484949;}
 .navbar-nav > li > a:hover i, .navbar-nav > li.active > a i {color:#fff;}
 #mainHeader .pull-right{ float:none !important; }
 
@@ -803,7 +803,7 @@ header#project{padding:22px 0;}
 	z-index: 9999;
 	width: 100%;
 	background-color: #fff;
-	color: #000;
+	color: #484949;
 	box-shadow:none;
 	padding:0;
 }
