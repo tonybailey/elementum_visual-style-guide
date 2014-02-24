@@ -290,7 +290,8 @@ h3, legend {
 	font-size: 18px;
 	line-height: 22px;
 	margin-bottom: 14px;
-	font-weight: 600;
+	font-weight: 300;
+	text-transform: uppercase;
 	letter-spacing: -0.06em;
 }
 h4 {
@@ -300,6 +301,7 @@ h4 {
 	font-style: bold;
 	font-family: Open Sans, Helvetica, sans-serif;
 	font-weight:300;
+	text-transform: uppercase;
 }
 h5 {
 	font-style: normal;
