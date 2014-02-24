@@ -206,6 +206,7 @@ h1 {
 	line-height: 44px;
 	font-weight: 300;
 	font-style: normal;
+	text-transform:uppercase;
 	text-align:center;
 	position:relative;
 	letter-spacing: -0.02em;
