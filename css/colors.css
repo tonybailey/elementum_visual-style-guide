@@ -38,7 +38,7 @@
 ================================================== */
 
 body {
-	color:#777;
+	color:#484949;
 	background: #fff;
 }
 
@@ -176,7 +176,7 @@ ul.iconsList li a:hover, ul.iconsList i {
 ================================================== */
 
 footer {
-	color:#777;
+	color:#484949;
 	background:#eee;
 	border-top:1px solid #555s;
 }
@@ -304,7 +304,7 @@ section#projectDescription {
 	border:none;
 }
 .pricingBloc h3 {
-	background-color:#777;
+	background-color:#484949;
 	color:#fff!important;
 
 }
