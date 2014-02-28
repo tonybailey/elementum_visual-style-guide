@@ -307,16 +307,16 @@ h4 {
 h5 {
 	font-style: normal;
 	font-weight: 300;
-	font-size: 1.116em;
-	line-height: 1.5714em;
-	margin-bottom: 0.916em;
+	font-size: 14px;
+	line-height: 16px;
+	margin-bottom: 16px;
 }
 h6 {
 	font-weight: 300;
 	font-style: italic;
-	margin-bottom: 2em;
-	font-size: 1em;
-	line-height:1em;
+	font-size: 14px;
+	line-height: 16px;
+	margin-bottom: 16px;
 }
 h1 small, h2 small, h3 small, h4 small {
 	text-transform:none;
