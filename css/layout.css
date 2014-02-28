@@ -204,14 +204,14 @@ h2, h3, h4, h5, h6, legend {
 }
 h1 {
 	font-size: 44px;
-	line-height: 44px;
+	line-height: 18px;
 	font-weight: 300;
 	font-style: normal;
 	text-transform:uppercase;
 	text-align:center;
 	position:relative;
 	letter-spacing: -0.02em;
-	margin-bottom: 17px;
+	xmargin-bottom: 17px;
 }
 
 h1.noSubtitle{
@@ -254,11 +254,11 @@ h1.noSubtitle{
 
 h2 {
 	font-size:24px;
-	line-height: 24px;
+	line-height: 18px;
 	font-weight: 300;
 	font-style: normal;
 	padding:0;
-	margin-bottom:17px;
+	xmargin-bottom:17px;
 
 }
 h2.subTitle{
@@ -289,16 +289,16 @@ h1.bigTitle:after, .boxWrapper h1:after, .pricingBloc h1:after, .team h1:after, 
 }
 h3, legend {
 	font-size: 18px;
-	line-height: 22px;
-	margin-bottom: 14px;
+	line-height: 18px;
+	xmargin-bottom: 14px;
 	font-family: 'FuturaW01-MediumCondens', sans-serif;
 	font-weight: 300;
 	text-transform: uppercase;
 }
 h4 {
 	font-size: 14px;
-	line-height: 22px;
-	margin-bottom: 6px;
+	line-height: 18px;
+	xmargin-bottom: 6px;
 	font-style: bold;
 	font-family: Open Sans, Helvetica, sans-serif;
 	font-weight:600;
@@ -308,15 +308,15 @@ h5 {
 	font-style: normal;
 	font-weight: 300;
 	font-size: 14px;
-	line-height: 16px;
-	margin-bottom: 16px;
+	line-height: 18px;
+	xmargin-bottom: 16px;
 }
 h6 {
 	font-weight: 300;
 	font-style: italic;
 	font-size: 14px;
 	line-height: 16px;
-	margin-bottom: 16px;
+	xmargin-bottom: 16px;
 }
 h1 small, h2 small, h3 small, h4 small {
 	text-transform:none;
