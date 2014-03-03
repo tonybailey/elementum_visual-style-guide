@@ -772,6 +772,14 @@ pre code {
   clear: both;
 }
 
+/* odd span centering helpers */
+
+  .row-fluid .offsetHalf {margin-left:8.5% !important;}
+  .row-fluid .offsetHalf1 {margin-left:12.9% !important;}
+  .row-fluid .offsetHalf2 {margin-left:21.6% !important;}
+  .row-fluid .offsetHalf3 {margin-left:25.6% !important;}
+  
+
 .row {
   margin-right: -15px;
   margin-left: -15px;
