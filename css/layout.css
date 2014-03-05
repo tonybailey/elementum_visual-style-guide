@@ -605,6 +605,9 @@ hr {
 		margin-right: 10px;
 		font-size: 18px;
 	}
+	.svgIcons {
+		max-width: 50%;
+	}
 }
 
 @media(min-width:768px){
