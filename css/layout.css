@@ -594,7 +594,7 @@ hr {
 	-ms-transition: all 0.2s ease-out;
 	transition: all 0.2s ease-out;
 }
-.navbar-nav > li > a i {font-size: 16px; text-align: center;padding: 20px 0 10px 0; color:#484949;}
+.navbar-nav > li > a i {font-size: 16px; text-align: center;padding: 20px 0 10px 0; color:#ccc;}
 .navbar-nav > li > a:hover i, .navbar-nav > li.active > a i {color:#fff;}
 #mainHeader .pull-right{ float:none !important; }
 
