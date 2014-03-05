@@ -660,7 +660,7 @@ body#fullScreen #mainHeader{display:none;}
 /*** MEDIA QUERIES ***/
 
 @media(max-width:767px){
-	#homeFullScreen #flexHome h1 {font-size:36px;}
+	#homeFullScreen #flexHome h1 {font-size:22px;}
 	#logoBig {padding:0 11px;}
 }
 
@@ -716,7 +716,7 @@ margin-bottom:-44px;
 #flexHome h1 {
 	margin-bottom: 11px;
 	font-weight: 300;
-	font-size: 32px;
+	font-size: 55px;
 	line-height:1em;
 	text-transform:none;
 	padding:0;
