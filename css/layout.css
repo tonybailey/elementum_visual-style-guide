@@ -660,7 +660,7 @@ body#fullScreen #mainHeader{display:none;}
 /*** MEDIA QUERIES ***/
 
 @media(max-width:767px){
-	#homeFullScreen #flexHome h1 {font-size:22px;}
+	#homeFullScreen #flexHome h1 {font-size:36px;}
 	#logoBig {padding:0 11px;}
 }
 
