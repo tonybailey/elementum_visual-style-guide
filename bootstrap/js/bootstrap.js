@@ -24,6 +24,7 @@ if (!jQuery) { throw new Error("Bootstrap requires jQuery") }
  * limitations under the License.
  * ======================================================================== */
 
+$('.dropdown-toggle').dropdown()
 
 +function ($) { "use strict";
 
