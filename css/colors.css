@@ -79,6 +79,12 @@ h2.subTitle:after, h1.noSubtitle:after{
 #paralaxSlice4 {
 	background-image: url('../images/theme-pics/paralax-4.jpg');
 }
+#paralaxIX1 {
+	background-image: url('../images/theme-pics/paralax-grey-2.jpg');
+}
+#paralaxIX2 {
+	background-image: url('../images/theme-pics/paralax-grey-3.jpg');
+}
 .paralaxText blockquote, .paralaxText h1, .paralaxText h2, .paralaxText h3, .paralaxText p, .paralaxText i{
 	color:#fff;
 }
