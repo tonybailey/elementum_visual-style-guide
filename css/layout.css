@@ -1148,9 +1148,16 @@ END CUSTOM CODE ADAPTED FROM CODE FOR AMERICA STYLE GUIDE
 */
 
 
+
+@media(min-width:768px)
+.dropdown-toggle {
+  display:none;
+}
+
 /*
 CUSTOM CODE FOR HEADER DROPDOWN
-*/
+
+
 
 .dropdown {
   position: relative;
@@ -1280,7 +1287,7 @@ CUSTOM CODE FOR HEADER DROPDOWN
   }
 }
 
-/*
+
 END CUSTOM CODE FOR HEADER DROPDOWN
 */
 
