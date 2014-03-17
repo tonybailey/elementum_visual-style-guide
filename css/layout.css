@@ -1156,31 +1156,6 @@ CUSTOM CODE FOR HEADER DROPDOWN
 */
 
 
-.navbar-nav > li > .dropdown-menu {
-  margin-top: 0;
-  border-top-right-radius: 0;
-  border-top-left-radius: 0;
-}
-.navbar-fixed-bottom .navbar-nav > li > .dropdown-menu {
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-}
-.navbar-btn {
-  margin-top: 5px;
-  margin-bottom: 5px;
-}
-.navbar-btn.btn-sm {
-  margin-top: 7.5px;
-  margin-bottom: 7.5px;
-}
-.navbar-btn.btn-xs {
-  margin-top: 11.5px;
-  margin-bottom: 11.5px;
-}
-.navbar-text {
-  margin-top: 12px;
-  margin-bottom: 12px;
-}
 @media (min-width: 768px) {
   .navbar-text {
     float: left;
