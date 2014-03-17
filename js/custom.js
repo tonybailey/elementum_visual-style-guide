@@ -154,7 +154,45 @@ $(document).ready(function() {
     | CONTACT
     |--------------------------------------------------------------------------
     */   
-    $('.dropdown-toggle').dropdown()
+    $('.slideContact').click(function(e){
+
+        if ( $(window).width() >= 800){
+
+            $('#contact').slideToggle('normal', 'easeInQuad',function(){
+
+                $('#contactinfoWrapper').css('margin-left', 0);
+                $('#mapSlideWrapper').css('margin-left', 3000);
+                $('#contactinfoWrapper').fadeToggle();
+                
+
+            });
+            $('#closeContact').fadeToggle(); 
+            return false;
+            
+        }else{
+
+            return true;
+            
+        }
+        e.preventDefault();
+    });
+    
+    
+    $('#closeContact').click(function(e){
+
+
+        $('#contactinfoWrapper').fadeOut('normal', 'easeInQuad',function(){
+            $('#contactinfoWrapper').css('margin-left', 0);
+            $('#mapSlideWrapper').css('margin-left', 3000);
+        });
+        
+        $('#contact').slideUp('normal', 'easeOutQuad');
+
+        $(this).fadeOut();
+
+        e.preventDefault();
+        
+    });
     
 
 
